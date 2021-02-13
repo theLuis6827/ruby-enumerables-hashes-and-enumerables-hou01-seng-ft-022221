@@ -11,5 +11,4 @@ def happy_birthday(birthday_kids)
   end
 end
   
-  # add your code snippet here!
-end
+  # add your code snippet here
